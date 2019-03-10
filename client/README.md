@@ -1,68 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title
+## clicky-game-pokemon-edition-
+Memory game. don't click the same image twice in a row. 
 
-## Available Scripts
+## Project Description
+Link to the site: [Clicky-Game-Pokemon](https://sahmed1035.github.io/PokemonClickGame/)
+This is a Pokemon memory game using React. Images of Pokemon characters are used in the cards. User is expected to click on an image and remember not to click it again. 
+  
+   * The user's score incrementes when clicking an image for the first time. 
+   * Also the topscore increments. 
+   * The user's score resets to 0 if they click the same image more than once. Topscore stays the same.
+   * Clicking on any image, shuffles all the cards in a random order.
+   * Once the user's score is reset after an incorrect guess, the game restarts.
 
-In the project directory, you can run:
+### Compatibility logic:
+The application renders different images Pokemons to the screen. 
+User-Interface is brken up into the following components:
+* FriendCards
+* Navbar
+* Title
+* Wrapper
+Also this app manages component states, and respond to user events such as onClick.
 
-### `npm start`
+## Getting Started
+To start playing, click on any image of your choice just remember not to click that second time in a row. 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Installing:
+After downloading the app, type in npm install in the terminal. It will install the the required packages. 
+   * npm install 
+   * npm start
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Built With
+1. react
+2. node.js
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Authors
+* Syeda Ahmed
