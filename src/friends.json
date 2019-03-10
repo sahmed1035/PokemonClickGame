@@ -2,109 +2,109 @@
   {
     "id": 1,
     "name": "Bedrill",
-    "image": "/images/Bedrill.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Bedrill.png",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Blastoise",
-    "image": "/images/Blastoise.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Blastoise.png",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Bulbasaur",
-    "image": "/images/Bulbasaur.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Bulbasaur.png",
     "clicked": false
   },
   {
     "id":4,
     "name": "Butterfree",
-    "image": "/images/Butterfree.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Butterfree.png",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Caterpie",
-    "image": "/images/Caterpie.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Caterpie.png",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Charizard",
-    "image": "/images/Charizard.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Charizard.png",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Charmander",
-    "image": "/images/Charmander.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Charmander.png",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Charmeleon",
-    "image": "/images/Charmeleon.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Charmeleon.png",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Ivysaur",
-    "image": "/images/Ivysaur.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Ivysaur.png",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Kakuna",
-    "image": "/images/Kakuna.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Kakuna.png",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Metapod",
-    "image": "/images/Metapod.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Metapod.png",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Pidgeot",
-    "image": "/images/Pidgeot.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Pidgeot.png",
     "clicked": false
   },
   {
     "id": 13,
     "name": "Pidgeotto",
-    "image": "/images/Pidgeotto.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Pidgeotto.png",
     "clicked": false
   },
   {
     "id": 14,
     "name": "Pidgey",
-    "image": "/images/Pidgey.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Pidgey.png",
     "clicked": false
   },
   {
     "id": 15,
     "name": "Squirtle",
-    "image": "/images/Squirtle.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Squirtle.png",
     "clicked": false
   },
   {
     "id": 16,
     "name": "Venusaur",
-    "image": "/images/Venusaur.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Venusaur.png",
     "clicked": false
   },
   {
     "id": 17,
     "name": "Wartortle",
-    "image": "/images/Wartortle.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Wartortle.png",
     "clicked": false
   },
   {
     "id": 18,
     "name": "Weedle",
-    "image": "/images/Weedle.png",
+    "image": "https://sahmed1035.github.io/PokemonClickGame/images/Weedle.png",
     "clicked": false
   }
 ]
